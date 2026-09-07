@@ -24,5 +24,8 @@ public class BMICalculator {
         Double bmi = weight/(Height * Height);
         
         System.out.printf("BMI: approimately \n %.2f%n", bmi);
+
+        System.out.printf("Samuel Sacurom");
+        scan.close();
     }
 }
